@@ -1,1 +1,1 @@
-# Ishant-Osint-Bot
+# Ishant OSINT Bot - Usage and Deployment Instructions
